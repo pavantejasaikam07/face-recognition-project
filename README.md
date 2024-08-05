@@ -21,5 +21,9 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/face-recognition-project.git
+   git clone https://github.com/pavantejasaikam07/face-recognition-project.git
    cd face-recognition-project
+   pip install opencv-python dlib face_recognition numpy seaborn pillow pandas scikit-learn tensorflow joblib
+   python version 3.8
+
+
